@@ -1,8 +1,7 @@
 #Author: Kyle Chen kvc5823@psu.edu
-#Collaborator:
-#Collaborator:
-#Collaborator:
-#Collaborator:
+#Collaborator: Shiquan Zhang spz5202@psu.edu
+#Collaborator: Brian Truong bqt5199@psu.edu
+#Collaborator: Adam Greenberg aqg5910@psu.edu
 #Section: 10R
 #Breakout: 16
 
